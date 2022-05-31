@@ -1,0 +1,19 @@
+.text{
+    background-color : blue;
+    color : white;
+}
+.text1{
+    color : black;
+    background-color : blue;
+    font-size:40px;
+}
+.buttt{
+    display : flex;
+}
+.buttt1{
+    color : black;
+    background-color : white;
+    border-radius : 50px;
+    width : 70px;
+
+}

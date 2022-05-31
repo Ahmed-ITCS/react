@@ -1,0 +1,13 @@
+.login{
+    display:flex;
+    color:white;
+    align-items: left;
+}
+.reg{
+    background-color:white;
+    color:black;
+    border-radius: 50px;
+    width:90px;
+    height:30px;
+    display : flex;
+}

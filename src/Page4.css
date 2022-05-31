@@ -1,0 +1,14 @@
+.page4head{
+    font-size : 30px;
+    display:flex;
+    height:100px;
+}
+.butt{
+    background-color :blue;
+    font-size : 50px;
+    width : 310px;
+    height : 100px;
+    border-radius:50px;
+    color : white;
+    
+}

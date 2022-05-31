@@ -1,0 +1,21 @@
+.page2body{
+    background-color : white;
+    width : 500px;
+    height : 250px;
+    border-radius : 50px;
+
+}
+.boxes{
+    background-color:black;
+    color:white;
+    width:500px;
+    height:25px;
+    border-radius:50px;
+}
+.boxes2{
+    background-color:black;
+    color:white;
+    width:500px;
+    height:55px;
+    border-radius:50px;
+}
